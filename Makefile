@@ -1,1 +1,2 @@
-I'm a Makefile
+all:
+	gcc helloWorld.c
